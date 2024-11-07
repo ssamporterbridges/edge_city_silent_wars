@@ -52,7 +52,3 @@ For the gameplay design, we’ve incorporated game designs from many trending tr
 4. Run `npm run dev`
 
 5. Go to browser http://localhost:3000
-
-## Telegram Mini App
-
-- To Access the Mini App please access @dynamic_eth_singapore_bot and run /start
